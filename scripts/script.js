@@ -14,3 +14,7 @@ let noTouch = document.querySelector(".noTouch");
 
 console.log(noTouch);
 
+let bios = document.querySelectorAll("p");
+
+console.log(bios);
+
